@@ -14,7 +14,7 @@ import static org.junit.jupiter.api.Assumptions.assumeTrue;
 
 class IndexControllerTest {
 
-    IndexController controller;
+    private IndexController controller;
 
     @BeforeEach
     void setUp() {
